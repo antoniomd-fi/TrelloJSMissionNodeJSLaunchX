@@ -1,0 +1,19 @@
+{
+  "name": "trellojsmissionnodejslaunchx",
+  "version": "1.0.0",
+  "description": "TrelloJS Mission NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniomd-fi/TrelloJSMissionNodeJSLaunchX.git"
+  },
+  "author": "Antonio Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoniomd-fi/TrelloJSMissionNodeJSLaunchX/issues"
+  },
+  "homepage": "https://github.com/antoniomd-fi/TrelloJSMissionNodeJSLaunchX#readme"
+}
