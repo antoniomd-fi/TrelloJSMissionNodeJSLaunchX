@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/antoniomd-fi/TrelloJSMissionNodeJSLaunchX#readme",
   "dependencies": {
-    "dotenv": "^16.0.1"
+    "dotenv": "^16.0.1",
+    "trello": "^0.3.0"
   }
 }
